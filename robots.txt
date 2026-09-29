@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nhffhb6htiug-bot.github.io/syahi-films/sitemap.xml
